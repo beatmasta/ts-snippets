@@ -1,1 +1,1 @@
-# Useful typescript snippets
+# Useful TypeScript snippets
