@@ -1,2 +1,1 @@
-# ts-snippets
-Useful typescript snippets
+# Useful typescript snippets
